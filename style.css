@@ -2,3 +2,9 @@ body{
     margin: 0;
     background: rgb(255, 255, 0);
 }
+
+p#main_contents{
+    font-size: 100pt;
+    color: white;
+    font-family: bold;
+}
