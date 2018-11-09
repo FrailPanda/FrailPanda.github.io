@@ -1,2 +1,2 @@
-# FrailPanda.gitub.io
+# FrailPanda.github.io
 Making a github page!
